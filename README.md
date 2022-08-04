@@ -1,6 +1,6 @@
 ### Hi guys, i'm Thiago Gonçalves 💻🩺📚
 
-## I'm a Front-end developer and fascinated by the sum of technology plus health.
+## I'm a Front-end developer and enthusiastic by the sum of technology plus health.
 <strong>Competências:</strong>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
